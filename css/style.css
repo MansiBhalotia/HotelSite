@@ -309,6 +309,10 @@ a.btn:hover
 		margin-top: 15px;
 		width: 100%;
 	}
+	.business
+	{
+		margin-left:0;
+	}
 
     div.margin
     {
@@ -370,7 +374,10 @@ a.btn:hover
 		width: 100%;
 		font-size: 100%;
 	}
-	
+	.business
+	{
+		margin-left:0;
+	}
 
 	
 
@@ -401,6 +408,11 @@ a.btn:hover
 		font-size: 20px;
 
 }
+	.business
+	{
+		margin-left:0px;
+	}
+	
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
